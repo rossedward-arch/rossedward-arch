@@ -30,7 +30,7 @@ To support early-stage architectural design focused on **energy efficiency and s
 
 ## 📂 Featured Projects
 
-- [ml-generative-energy-design](https://github.com/rosseward--arch/ml-generative-energy-design)  
+- [ml-generative-energy-design](https://github.com/rossedward-arch/ml-generative-energy-design)  
   `▶️ Ongoing` – ML-powered generative design loop for energy-optimized buildings
 
 
