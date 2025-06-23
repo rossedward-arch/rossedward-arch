@@ -47,7 +47,7 @@ To support early-stage architectural design focused on **energy efficiency and s
 
 ## 📫 Get in Touch
 
-- ✉️ rdedwardd@hotmail.com
+- ✉️ rdedward@hotmail.com
 - 🌐 
 - 🔗 [LinkedIn profile]
 
